@@ -15,5 +15,3 @@ These assignments are designed to be completed using the corresponding course no
 10. [AutoML](10-automl.md)
 11. [Multimodal Models](11-multimodal.md)
 12. [Additional Topics](12-extra.md)
-
-**Data Basics:** create a small meaningful dataset with at least 10 columns and 10 rows, introduce missing values, fill them using `fillna`, encode categories, scale features, and finish with a train/test split.
